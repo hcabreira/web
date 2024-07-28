@@ -1,0 +1,69 @@
+Passo 1: Definição da Ideia da DAO
+Nome da DAO: EcoDAO
+
+Missão da DAO: Promover e financiar projetos ambientais sustentáveis através de uma governança descentralizada, permitindo que a comunidade tome decisões e contribua para a preservação e restauração do meio ambiente.
+
+Visão: Ser a principal plataforma descentralizada para financiamento de iniciativas ecológicas, tornando o mundo um lugar mais verde e sustentável.
+
+Valores:
+
+Sustentabilidade
+Transparência
+Comunidade
+Inovação
+Impacto positivo
+Passo 2: Estrutura da DAO
+1. Governança:
+
+A EcoDAO será governada por um sistema de votação onde cada membro da comunidade possui um voto proporcional aos tokens ECO que detém.
+Propostas para novos projetos, mudanças na estrutura ou qualquer outra decisão importante serão submetidas para votação.
+A maioria simples (50% + 1) será necessária para a aprovação de propostas.
+2. Tokens:
+
+ECO Tokens: Serão utilizados para votação e recompensas. Os membros podem ganhar ECO Tokens ao contribuir para projetos ou comprá-los diretamente.
+Distribuição Inicial: Uma quantidade inicial de ECO Tokens será distribuída aos fundadores, primeiros apoiadores e parceiros estratégicos.
+3. Financiamento:
+
+Crowdfunding: Utilizando plataformas como Kickstarter ou Indiegogo para levantar fundos iniciais.
+Doações: Aceitação de doações em criptomoedas e moedas fiduciárias.
+Investimentos: Buscar parcerias com organizações e investidores interessados em sustentabilidade.
+Passo 3: Ações Teóricas
+1. Criação de um Servidor Discord:
+
+Objetivo: Facilitar a comunicação entre os membros da DAO.
+Canais: Canais de discussão, anúncios, suporte e votação.
+Moderação: Moderadores serão eleitos pela comunidade para garantir a ordem e a conformidade com as regras da DAO.
+2. Desenvolvimento de um Site:
+
+Funcionalidades: Informações sobre a missão, visão e valores da EcoDAO, whitepaper, roadmap, integração com carteiras digitais, portal de governança.
+Design: Interface amigável e responsiva com foco na usabilidade.
+3. Criação do Whitepaper:
+
+Conteúdo: Detalhamento da missão, visão, valores, estrutura de governança, modelo de financiamento, plano de desenvolvimento e cronograma.
+Distribuição: Publicação no site oficial e em plataformas de compartilhamento de documentos como GitHub.
+4. Lançamento do Token ECO:
+
+Plataforma: Utilização de Ethereum ou Polygon para a criação e distribuição dos tokens.
+Auditoria: Realização de auditorias de segurança nos contratos inteligentes.
+Distribuição: Airdrop para os primeiros apoiadores e venda pública.
+5. Implementação da Plataforma de Votação:
+
+Ferramentas: Utilização de ferramentas como Snapshot para realizar votações descentralizadas.
+Processo: Propostas serão submetidas, discutidas e votadas pela comunidade.
+Passo 4: Publicação no GitHub
+1. Criação de um Repositório:
+
+Nome do repositório: eco-dao
+Descrição: "Projeto da EcoDAO - Promovendo a Sustentabilidade através da Governança Descentralizada"
+2. Documentação:
+
+README.md: Incluir uma visão geral do projeto, instruções para contribuição e links úteis.
+Whitepaper: Documento detalhado em formato PDF ou Markdown.
+Contratos Inteligentes: Código dos contratos inteligentes utilizados para governança e emissão de tokens.
+Roadmap: Plano de desenvolvimento e cronograma das fases do projeto.
+Recursos Adicionais
+Documentação do Solidity
+Documentação do OpenZeppelin
+Tutoriais do Remix
+Guias da Metamask
+Snapshot: Plataforma para votação descentralizada
